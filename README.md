@@ -1,6 +1,8 @@
 # Power Bi Project File
 This is my first Github Repository.
+<br>
 **Scenario**
+<br>
 Adventure Works, a multinational bicycle manufacturer, has multiple sales operations across the globe. The company’s executive board and sales management team require quarterly sales information to assess their performance for the previous quarter. This analysis should provide them with the insights they need to make strategic decisions for their upcoming quarter.
 
 As a data storyteller, the specific tasks you should perform in this exercise are:
